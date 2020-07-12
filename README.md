@@ -1,2 +1,2 @@
 # LUCKYNANO
-LUCKYNANO.com is a community-driven faucet, with casino games that let you get free NANO while having fun ! This repository is meant to help the community contribute to some aspects of the website.
+LUCKYNANO.com es una faucet dirigida por la comunidad, con juegos al estilo casino que te permiten obtener NANO mientras te diviertes! Este repositorio pretende ayudar a la comunidad a contribuir a ciertos aspectos de la página.
