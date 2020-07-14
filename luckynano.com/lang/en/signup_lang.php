@@ -1,14 +1,14 @@
 <?
 $signup_lang = array(
-  'title' => 'S<smaller>IGN UP</smaller>',
-  'Username' => 'Username',
-  'Email' => 'E-mail address',
-  'Password' => 'Password',
-  'showpw' => 'Show password',
-  'signup_form_button' => 'S<small>ign up</small>',
-  'agreerules' => 'By signing up, you agree to our <u><a>Terms, Data Policy and Cookies Policy</a></u>',
-  'js_wrong_username' => 'Wrong username format.<br>(4-11 characters, alphanumeric)',
-  'js_wrong_email' => 'Wrong email address format.',
-  'js_wrong_pw' => 'Wrong password format.<br>(6 characters minimum)',
+  'title' => 'R<smaller>EGISTRARSE</smaller>',
+  'Username' => 'Usuario',
+  'Email' => 'Dirección de correo electrónico',
+  'Password' => 'Contraseña',
+  'showpw' => 'Mostrar contraseña',
+  'signup_form_button' => 'R<small>egistrarse</small>',
+  'agreerules' => 'Al registrarte, aceptas nuestros <u><a>Términos, Política de Datos y Política de Cookies</a></u>',
+  'js_wrong_username' => 'Formato incorrecto de usuario.<br>(Entre 4 y 11 caracteres, alfanumérico)',
+  'js_wrong_email' => 'Formato incorrecto de correo electrónico.',
+  'js_wrong_pw' => 'Formato incorrecto de contraseña.<br>(Mínimo 6 caracteres)',
 );
 ?>
