@@ -1,65 +1,65 @@
 <?
 $poker_table_lang = array(
-  'tournament_id' => "Tournament #",
-  'tournament_hand' => "Round #",
-  'tournament_average' => "Average stack",
-  'tournament_late_entry' => "Late reg.",
+  'tournament_id' => "Torneo #",
+  'tournament_hand' => "Ronda #",
+  'tournament_average' => "Promedio de fichas",
+  'tournament_late_entry' => "Entrada tardía.",
   'tournament_date' => 'Starting time',
   'tournament_blind' => 'Blinds',
   'tournament_ante' => 'Ante',
-  'tournament_rebuy' => 'Re-buy',
-  'tournament_rank' => 'Rank',
-  'prize_pool_info' => 'PRIZE POOL',
-  'tournament_pool_amount' => 'Amount',
-  'prize_pool_distrib_info' => 'DISTRIBUTION',
-  'multi_table_info' => 'MULTI-TABLE INFO',
-  'warning' => 'Warning',
+  'tournament_rebuy' => 'Recomprar',
+  'tournament_rank' => 'Posición',
+  'prize_pool_info' => 'BOLSA DE PREMIOS',
+  'tournament_pool_amount' => 'Cantidad',
+  'prize_pool_distrib_info' => 'DISTRIBUCION',
+  'multi_table_info' => 'INFORMACIÓN DE MULTIPLES MESAS',
+  'warning' => 'Advertencia',
   'fold_warning' => 
-    'Are you sure that you want to fold ?
-    <br><span class="click_word">Click</span> the "FOLD" button again to confirm.
-    <br><span class="poker_sub_message">Checking would also be allowed.</span>',
+    'Seguro que quieres retirarte ?
+    <br><span class="click_word">Haz click</span> nuevamente sobre el botón "RETIRARSE" para confirmar.
+    <br><span class="poker_sub_message">También se puede pasar.</span>',
   'leave_warning_1' =>
-  'Are you sure that you want to leave the table ?<br>
-  <span class="click_word">Click</span> the "LEAVE" button again to confirm.<br>',
+  'Seguro que quieres abandonar la mesa ?<br>
+  <span class="click_word">Haz click</span> en el boton de "ABANDONAR" para confirmar.<br>',
   'leave_warning_2' =>
-  '<span class="poker_sub_message">A fee (0%) may be deducted from your earnings.</span>',
+  '<span class="poker_sub_message">Una tasa (0%) puede ser deducida de tus ganancias.</span>',
   'leave_warning_3' =>
-  '<span class="poker_sub_message">Any participation fee will be refunded.</span>',
-  'winner_ribbon' => 'WINNER',
-  'no_limit' => "NO-LIMIT TEXAS HOLD'EM",
+  '<span class="poker_sub_message">Cualquier tasa de entrada será reembolsada.</span>',
+  'winner_ribbon' => 'GANADOR',
+  'no_limit' => "TEXAS HOLD'EM SIN RESTRICCIONES",
 
-  'minimum_entry' => 'Min. buy-in ',
-  'maximum_entry' => 'Max. buy-in ',
+  'minimum_entry' => 'Monto mínimo de entrada',
+  'maximum_entry' => 'Monto máximo de entrada',
 
   'fee_info' => 
-  'Table fee: <span id="fee_info_amount">0</span>% of profits when leaving the table <a href="../old/faq.php#poker_fee" target="blank"><i class="mdi mdi-help-circle"></i></a><br>
-    (no fee for profits under <img class="nano_logo" src="images/assets/nano.png"/> 0.005) </div>',
+  'Tasa de la mesa: <span id="fee_info_amount">0</span>el % de las ganancias cuando dejas una mesa <a href="../old/faq.php#poker_fee" target="blank"><i class="mdi mdi-help-circle"></i></a><br>
+    (no hay tasas para las ganancias por debajo de <img class="nano_logo" src="images/assets/nano.png"/> 0.005) </div>',
 
-  'entry_buyin' => 'Entry buy-in ',
-  'number_participants_info' => 'Number of participants ',
-  'number_seats_info' => ' simultaneous players',
+  'entry_buyin' => 'Precio de entrada ',
+  'number_participants_info' => 'Numero de participantes ',
+  'number_seats_info' => ' jugadores simultaneos',
 
   'rebuy_info' => 
-  'Re-buy <span id="rebuy_info_value">No</span> <span style="font-size:19px; vertical-align:middle">(entry impossible after a loss)</span>',
+  'Recomprar <span id="rebuy_info_value">no está permitido</span> <span style="font-size:19px; vertical-align:middle">(entry impossible after a loss)</span>',
 
-  'tournament_date_info' => 'Starting date <span id="tournament_date_info_amount" class="tournament_date"></span>',
+  'tournament_date_info' => 'Fecha de inicio <span id="tournament_date_info_amount" class="tournament_date"></span>',
 
-  'increase_info_1' => 'Ante doubles every ',
-  'increase_info_2' => ' seconds',
+  'increase_info_1' => 'Ante se duplica cada ',
+  'increase_info_2' => ' segundos',
 
   'message_sitout' => 
   'You will sit out at the next round.<br>
-  <span class="poker_sub_message">In cash games or freerolls, you may automatically leave the table after a few rounds. <br>Antes remain mandatory for tournaments.</span>',
+  <span class="poker_sub_message">En los cash games o freerolls, puedes dejar la mesa automáticamente después de un número de rondas. <br>Antes son obligatorias para los torneos.</span>',
 
-  'buyin_window_title' => 'BUY-IN ',
-  'buyin_max' => 'MAX',
-  'poker_deposit' => 'DEPOSIT',
+  'buyin_window_title' => 'PRECIO DE ENTRADA ',
+  'buyin_max' => 'MAXIMO',
+  'poker_deposit' => 'DEPOSITAR',
 
-  'tournament_game_over' => 'GAME OVER',
+  'tournament_game_over' => 'FIN DEL JUEGO',
   'tournament_rank_message' => 
   'You ranked <span id="game_over_rank"></span> and won <img class="nano_logo" src="images/assets/nano.png"/> <span id="game_over_win"></span>.',
 
-  'winning_hand_text' => 'Winning hand ',
+  'winning_hand_text' => 'Mano ganadora ',
 
 );
 ?>
